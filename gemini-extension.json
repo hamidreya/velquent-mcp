@@ -1,0 +1,10 @@
+{
+  "name": "velquent",
+  "version": "1.0.0",
+  "description": "Read-only access to Velquent's published reports on large Hyperliquid open-interest changes and exchange perpetual price moves.",
+  "mcpServers": {
+    "velquent": {
+      "httpUrl": "https://velquent.com/mcp"
+    }
+  }
+}
