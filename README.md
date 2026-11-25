@@ -1,5 +1,7 @@
 # Velquent Reports (MCP)
 
+[![mcptry](https://mcptry.com/badge/com.velquent/velquent-mcp)](https://mcptry.com/servers/com.velquent/velquent-mcp)
+
 A read-only MCP server that gives an AI assistant access to [Velquent](https://velquent.com/moves/)'s published reports:
 
 - one report for each large **one-hour open-interest change on Hyperliquid** perpetuals (main focus), and
