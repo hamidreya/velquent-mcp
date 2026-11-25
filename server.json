@@ -3,8 +3,17 @@
   "name": "com.velquent/velquent-mcp",
   "title": "Velquent Reports",
   "description": "Delayed reports on large Hyperliquid open-interest changes and exchange perpetual price moves.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://velquent.com/mcp/",
+  "icons": [
+    {
+      "src": "https://velquent.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/hamidreya/velquent-mcp",
     "source": "github"
