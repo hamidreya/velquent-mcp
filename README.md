@@ -21,7 +21,7 @@ Every report is recorded at the time of the move and published at least three ho
 **Gemini CLI:**
 
 ```
-gemini extensions install https://github.com/velquent/velquent-mcp
+gemini extensions install https://github.com/hamidreya/velquent-mcp
 ```
 
 **Other MCP clients:** add a remote server with the URL above (the exact config key differs by client).
